@@ -1,3 +1,2 @@
 hola mundo
-git remote add origin https://TOKEN@github.com/JimenaGuevara/Repositorio.git/
-Repositorio.git
+
